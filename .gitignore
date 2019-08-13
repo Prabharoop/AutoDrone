@@ -1,0 +1,5 @@
+*.pyc
+yolo-files
+.ipynb_checkpoints
+__pycache__
+*~
